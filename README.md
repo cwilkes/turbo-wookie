@@ -15,7 +15,7 @@ One time setup
 
 Downloading code and initial setup
 ==============
-1. git clone .....
+1. git clone git@github.com:cwilkes/turbo-wookie.git pythonstarter
 2. cd pythonstarter
 3. install a virtualenv
   1. which python   # /usr/local/bin/python
